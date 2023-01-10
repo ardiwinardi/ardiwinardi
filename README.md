@@ -46,3 +46,5 @@ These are my following skills:
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/Elasticsearch-07405E?style=for-the-badge&logo=elasticsearch&logoColor=white" />
 </p>
+
+![github stats](https://github-readme-stats.vercel.app/api?username=ardiwinardi&show_icons=true)
