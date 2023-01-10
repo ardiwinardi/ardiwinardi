@@ -8,6 +8,8 @@ I am a Full Stack developer with 10+ years of experience in web development.
 - 📜 &nbsp;I always learning and implementing about best practices
 - 💬 &nbsp;Ask me about anything related to Javascript/Typescript/React/NextJs/Express
 - 📫 &nbsp;How to reach me: [@asepardiwinardi](https://twitter.com/asepardiwinardi) 
+
+<br/>
 <p>
 These are my following skills:
 </p>
