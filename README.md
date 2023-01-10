@@ -1,7 +1,15 @@
+
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%">
 
+I am a Full Stack developer with 10+ years of experience in web development.
+
+- 🔭 &nbsp;I’m passionate about designing clean architecture
+- 🌱 &nbsp;I experienced with domain design pattern, atomic design pattern
+- 📜 &nbsp;I always learning and implementing about best practices
+- 💬 &nbsp;Ask me about anything related to Javascript/Typescript/React/NextJs/Express
+- 📫 &nbsp;How to reach me: [@asepardiwinardi](https://twitter.com/asepardiwinardi) 
 <p>
-I am a Full Stack developer with 10+ years of experience in web development, with the following skills:
+These are my following skills:
 </p>
 
 ##### ✨ Languages:
