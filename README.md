@@ -38,7 +38,3 @@ I am a Full Stack developer with 10+ years of experience in web development, wit
   <img src="https://img.shields.io/badge/Elasticsearch-07405E?style=for-the-badge&logo=elasticsearch&logoColor=white" />
 </p>
 
-##### My sample Github repos:
-<img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ardiwinardi&repo=sample-fundraising-app&theme=react&bg_color=273849&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats">
-<img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ardiwinardi&repo=express-typescript-mongo-sample&theme=react&bg_color=273849&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats">
-
