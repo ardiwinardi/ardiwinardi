@@ -6,7 +6,7 @@ I am a Web developer with 10+ years of experience in web development.
 - 🔭 &nbsp;I’m passionate about designing a clean architecture
 - 🌱 &nbsp;I’m experienced with domain design patterns and atomic design pattern
 - 📜 &nbsp;I’m constantly learning and implementing best practices
-- 💬 &nbsp;Ask me about anything related to Javascript/Typescript/React/NextJs/Express
+- 💬 &nbsp;Ask me about anything related to Javascript/Typescript/React/NextJs
 - 📫 &nbsp;How to reach me: [@asepardiwinardi](https://www.linkedin.com/in/asepardiwinardi) 
 
 <br/>
