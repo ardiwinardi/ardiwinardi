@@ -6,7 +6,7 @@ I am a Web developer with 10+ years of experience in web development.
 - 🔭 &nbsp;I’m passionate about designing a clean architecture
 - 🌱 &nbsp;I’m experienced with domain design patterns and atomic design pattern
 - 📜 &nbsp;I’m constantly learning and implementing best practices
-- 💬 &nbsp;Ask me about anything related to Javascript/Typescript/React/NextJs
+- 💬 &nbsp;Lets talk about anything related to Javascript/Typescript/React/NextJs/NestJs
 - 📫 &nbsp;How to reach me: [@asepardiwinardi](https://www.linkedin.com/in/asepardiwinardi) 
 
 <br/>
@@ -35,6 +35,7 @@ These are my following skills:
 
 ##### ✨ Back-end:
 <p>
+  <img src="https://img.shields.io/badge/Nest.js-339933?style=for-the-badge&logo=nestdotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express&logoColor=white" />
  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
