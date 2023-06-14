@@ -1,7 +1,7 @@
 
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%">
 
-I am a Web developer with 10+ years of experience in web development.
+I am an experienced full-stack developer.
 
 - 🔭 &nbsp;I’m passionate about designing a clean architecture
 - 🌱 &nbsp;I’m experienced with domain design patterns and atomic design pattern
@@ -31,6 +31,7 @@ These are my following skills:
   <img src="https://img.shields.io/badge/React%20Query-red?style=for-the-badge&logo=react-query&logoColor=white"/>
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
    <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/react-native.js-20232A?style=for-the-badge&logo=reactnative&logoColor=white" />
 </p>
 
 ##### ✨ Back-end:
