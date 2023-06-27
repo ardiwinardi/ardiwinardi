@@ -1,10 +1,9 @@
 
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%">
 
-I am an experienced full-stack developer.
+I am an experienced software engineer.
 
 - 🔭 &nbsp;I’m passionate about designing a clean architecture
-- 🌱 &nbsp;I’m experienced with domain design patterns and atomic design pattern
 - 📜 &nbsp;I’m constantly learning and implementing best practices
 - 💬 &nbsp;Lets talk about anything related to Javascript/Typescript/React/NextJs/NestJs
 - 📫 &nbsp;How to reach me: [@asepardiwinardi](https://www.linkedin.com/in/asepardiwinardi) 
